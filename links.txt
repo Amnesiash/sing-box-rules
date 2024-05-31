@@ -1,11 +1,11 @@
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/AI.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Apple.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Direct+.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Direct.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/LAN.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Proxy+.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Proxy.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Reject.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/Streaming!CN.list
-https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/QuantumultX/StreamingCN.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/AI.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Apple.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Direct+.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Direct.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/LAN.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Proxy+.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Proxy.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Reject.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/Streaming!CN.list
+https://raw.githubusercontent.com/Amnesiash/ladder_rules_script/main/Rules/Clash/StreamingCN.list
 
