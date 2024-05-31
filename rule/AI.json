@@ -1,0 +1,70 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "aistudio.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "api-iam.intercom.io",
+        "api.statsig.com",
+        "bard.google.com",
+        "browser-intake-datadoghq.com",
+        "chatgpt.livekit.cloud",
+        "copilot.microsoft.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "imagine.meta.com",
+        "o33249.ingest.sentry.io",
+        "openaiapi-site.azureedge.net",
+        "sfo3.turn.livekit.cloud",
+        "static.cloudflareinsights.com",
+        "sydney.bing.com",
+        "www.bing.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "openai",
+        "openaicom"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "ai.com",
+        "algolia.net",
+        "anthropic.com",
+        "api.statsig.com",
+        "auth0.com",
+        "chatgpt.com",
+        "chatgpt.livekit.cloud",
+        "ciciai.com",
+        "claude.ai",
+        "client-api.arkoselabs.com",
+        "coze.com",
+        "events.statsigapi.net",
+        "featuregates.org",
+        "grazie.ai",
+        "host.livekit.cloud",
+        "identrust.com",
+        "intercom.io",
+        "intercomcdn.com",
+        "launchdarkly.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "observeit.net",
+        "openai.com",
+        "segment.io",
+        "sentry.io",
+        "stripe.com",
+        "turn.livekit.cloud"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "24.199.123.28/32",
+        "64.23.132.171/32"
+      ]
+    }
+  ],
+  "version": 1
+}
