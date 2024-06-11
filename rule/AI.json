@@ -6,6 +6,7 @@
         "aida.googleapis.com",
         "aistudio.google.com",
         "alkalimakersuite-pa.clients6.google.com",
+        "api-iam.intercom.io",
         "api.githubcopilot.com",
         "api.msn.com",
         "api.statsig.com",
@@ -14,6 +15,7 @@
         "browser-intake-datadoghq.com",
         "cdn.usefathom.com",
         "chat.openai.com.cdn.cloudflare.net",
+        "chatgpt.livekit.cloud",
         "copilot-proxy.githubusercontent.com",
         "copilot.microsoft.com",
         "gateway.bingviz.microsoft.net",
@@ -35,6 +37,7 @@
         "r.bing.com",
         "self.events.data.microsoft.com",
         "services.bingapis.com",
+        "sfo3.turn.livekit.cloud",
         "static.cloudflareinsights.com",
         "sydney.bing.com",
         "www.bing.com"
@@ -43,6 +46,7 @@
     {
       "domain_keyword": [
         "openai",
+        "openaicom",
         "openaicom-api"
       ]
     },
@@ -72,7 +76,6 @@
         "intercom.io",
         "intercomcdn.com",
         "launchdarkly.com",
-        "meta.ai",
         "oaistatic.com",
         "oaiusercontent.com",
         "observeit.net",
