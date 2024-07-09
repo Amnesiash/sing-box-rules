@@ -3,9 +3,9 @@
     {
       "domain": [
         "asusrouter.com",
-        "cp.cloudflare.com",
-        "detectportal.firefox.com",
+        "connect.rom.miui.com",
         "instant.arubanetworks.com",
+        "oasisauth.h3c.com",
         "router.asus.com",
         "setmeup.arubanetworks.com",
         "www.asusrouter.com"
@@ -112,7 +112,9 @@
         "b.e.f.ip6.arpa",
         "captive.apple.com",
         "connectivitycheck.gstatic.com",
+        "cp.cloudflare.com",
         "d.f.ip6.arpa",
+        "detectportal.firefox.com",
         "hiwifi.com",
         "home.arpa",
         "leike.cc",
@@ -126,7 +128,9 @@
         "p.to",
         "peiluyou.com",
         "phicomm.me",
+        "ping.archlinux.org",
         "plex.direct",
+        "push.services.mozilla.com",
         "router.ctc",
         "routerlogin.com",
         "tendawifi.com",
